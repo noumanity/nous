@@ -7,6 +7,11 @@
 Ensemble de schémas et de générateurs statiques permettant de prototyper une application web.
 
 
+Nous permet de décrire une application web sous forme de contenu sémantisé. Ceci permet de découpler complètement la conception de son implémentation.
+
+Bien entendu, les spécifications doivent être implémentées pour que l'application devienne réalité. Cependant, puisque les spécifications sont l'outil principal de dicussion entre
+les parties prenantes, le développement peut se faire de manière totalement asynchrone et sans ingérence.
+
 
 ![Processus de conception et d'implémentation collaborative](doc/img/nous.svg)
 
